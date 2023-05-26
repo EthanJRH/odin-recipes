@@ -1,0 +1,1 @@
+This is my first project within The Odin Project! I have been a citizen programmer for a long time but have neve learned web development, so here I am. I hope to pivot my career towards computer science and this seems like a decent starting point.
